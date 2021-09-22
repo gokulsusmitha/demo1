@@ -1,0 +1,5 @@
+outs:
+- md5: 10d70423a89df3804877eb90b6c8c2aa.dir
+  size: 0
+  nfiles: 1
+  path: txt1
